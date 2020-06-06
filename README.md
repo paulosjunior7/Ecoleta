@@ -2,7 +2,7 @@
     <img alt="Ecoleta" src="./web/src/assets/logo.svg" />
     <br>
     <br>
-    <a href="https://github.com/fabianoalmeida/next-level-week/tree/master/server">NodeJS</a> + <a href="https://github.com/fabianoalmeida/next-level-week/tree/master/web">ReactJS</a> + <a href="https://github.com/fabianoalmeida/next-level-week/tree/master/mobile">React Native</a>
+    <a href="https://github.com/paulosjunior7/Ecoleta/tree/master/server">NodeJS</a> + <a href="https://github.com/paulosjunior7/Ecoleta/tree/master/web">ReactJS</a> + <a href="https://github.com/paulosjunior7/Ecoleta/tree/master/mobile">React Native</a>
 </h1>
 
 <h4 align="center">
@@ -107,12 +107,10 @@ $ cd web && npm start
 $ cd mobile && npm start
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/fabianoalmeida/next-level-week/blob/master/LICENSE) for more information.
 
 ---
 
-Made with :purple_heart: by Fabiano Almeida :wave: [Get in touch!](https://www.linkedin.com/in/fabianobmalmeida/)
+Made with :purple_heart: by Paulo Soares :wave: [Get in touch!](https://www.linkedin.com/in/paulo-afonso-soares-j%C3%BAnior-8895aa100/)
 
 [nodejs]: https://nodejs.org/
 [axios]: https://github.com/axios/axios
